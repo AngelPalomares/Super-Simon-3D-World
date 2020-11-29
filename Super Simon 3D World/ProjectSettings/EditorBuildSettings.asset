@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0efdb2d97d19b514896ee690d95ccf39
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: a81730ff8858a1f43a4f8bbc31e72919
+  - enabled: 1
+    path: Assets/Scenes/Meadow of the sky 1-1.unity
+    guid: 3b9dfd96b9df07a468fd593e480698b8
+  - enabled: 1
+    path: Assets/Scenes/Meadow of the sky 1-2.unity
+    guid: 09ed0af009aefb4449856eea8360cfc1
+  - enabled: 1
+    path: Assets/Scenes/Meadow of the sky 3.unity
+    guid: a5a9fcde3230f3f4daaca8288e0bf0ea
+  - enabled: 1
+    path: Assets/Scenes/Meadow of the sky Boss.unity
+    guid: 5200cc96dc2ea064798c8f33130c8db5
+  - enabled: 1
+    path: Assets/Scenes/Blank Dreams 1-1.unity
+    guid: ecc2f393433489e4f99ff5be2d5e3332
+  - enabled: 1
+    path: Assets/Scenes/Blank Dreams 1-2.unity
+    guid: 837366746135fa34fbc08db1db8af7b7
+  - enabled: 1
+    path: Assets/Scenes/Blank Dreams 1-3.unity
+    guid: 68f887430e636b340bf6a67793d31e4f
+  - enabled: 1
+    path: Assets/Scenes/Blank Dreams Boss.unity
+    guid: 36e0a48628f1c8248a3eb52ae13d5e79
+  - enabled: 1
+    path: Assets/Scenes/Barn Area 3-1.unity
+    guid: b3cb69e78edaf334385a8570e068aab8
+  - enabled: 1
+    path: Assets/Scenes/Barn Area 3-2.unity
+    guid: 4325a3d4a7c8df0429d489b09024644f
+  - enabled: 1
+    path: Assets/Scenes/Barn Area 3-3.unity
+    guid: b2a9e590ff221904eb541af5237fbdf3
+  - enabled: 1
+    path: Assets/Scenes/Barn Area Boss.unity
+    guid: e8c1d52ac63191844ab9b7ce50feea65
+  - enabled: 0
+    path: Assets/Scenes/Player2TestingGround 1.unity
+    guid: 4592958af036ee14392f994e00462c8f
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: dd500ed64f8db334e9eed70930f855a0
+  - enabled: 1
+    path: Assets/Scenes/Meadow of the sky 1-3 2 Player.unity
+    guid: edb37384a85dd284587d7b672eeb612c
+  - enabled: 1
+    path: Assets/Scenes/Meadow of the sky Player2.unity
+    guid: e1348fb7e90785840a75aed08cb78060
+  - enabled: 1
+    path: Assets/Scenes/Blank Dreams 2 Player.unity
+    guid: 66517692d2d986644ac384d7cb86a83d
+  - enabled: 1
+    path: Assets/Scenes/Blank Dreams Boss 2Player.unity
+    guid: 93ecacca15132d34ebb6e913dbf1e94c
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 5b1bd822440a1b348a63042597def3e9
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
